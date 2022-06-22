@@ -1,0 +1,128 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+        "name": "Two-Block Bridge",
+        "role": "This is the Bridge, on Bedrock Edition, with a two-block wide bridge. If you haven't heard of it yet, it is where two players try to score a goal on their opponent's side by crossing a bridge.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/TwoBlock_Bridge.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/1/3.png"
+    },
+    {
+        "name": "Fast Bridging Trainer",
+        "role": "Do you like bedwars and skywars? I like. This map is for training bridging skills. There are three modes: onestack, straight and andromeda. If you have some questions ask me. I'll answer your question. I hope you'll enjoy this map.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/Fast bridging trainer.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/2.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bridge/1-6/2/1.png"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/YapkGWOfGVYruTBi_tO2ltoGTKY4r6mK-2hdGTCp8AMRAi-EcrsNvLB40RWXbcasFBefz4XxaFwGQATsJZqbfb_7aqkNQG_PV3A",
+    "view_skin": "https://lh3.googleusercontent.com/sEI3rb7fTpdt1ItKx6djiRSTslFzrusdEf6amUtYon1uqJbsgzfXSMrMzrZFX13eokbx2e1UtDp9IlNFhGVRRKI6XeqxLbDaBCpK"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/hpAgLKFmyDBupa_CqKzfW4JgB4gTVYRgdm8gz61QKi4Iyf1OGVVxTuSQCbtc8hjFC-V_MLRI2IbJD-_7A4WOUIRkx6bg68jW66Q",
+    "view_skin": "https://lh3.googleusercontent.com/dr-W0j7o2L6ti_B8b6Q92IQGyKtuZNLq5NGQVAH-INqvZw4wYpTVKMhygbrGF0Dgao6H-RdU2qVKcBmc30CoyEUUv8vpCzbNgw"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/BqxNj0Jpa0Zqf4qRBuzyZkUDWWh677WFI2dTOwmP4uRLu8CJhHUF01ZDPAUOqDxOZuCl5eB_Aw6KV4XXtB8XzGgZcrChHmvs9Rg",
+    "view_skin": "https://lh3.googleusercontent.com/75gSGrp2rD8VOh78XbHREWXBzm6fk_ez3hENxBzD2YN3XO4XYvl4_9fJrRYrLAOpZstSSJTTkmVJjoN2JbiDFasmO4CeyRdjF0U"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/LPpM5MicOFqlBJiaAd2IlCmgaQD9nP-AXdKs2unMmRA0MtQZainA9UPXxCRfcS7xYG-Q2RMFpMoLe7xS9pNZRCWzKMVdVrE-8wc",
+    "view_skin": "https://lh3.googleusercontent.com/NmQRhvsvWg7wHJW91v3-ZFWH12nyKE91KG6eAcRx72GDtrdQilposofOjJxVeZl6A72besgI0l123TrL5NXmQ6wvwaJWY4VNiuQ"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/48KDk8lbuvE5qhW-iUoQD6r5uoWrPRJR7c8eNRSPG0mLKH-l2XtbSIdiY8sxFJ96Tkfb0lqBEbT5F9rQSI2lVC6m4HxMyRXzdrQ",
+    "view_skin": "https://lh3.googleusercontent.com/SYJiK5yIjtaf98ubgYGzyq-IkzYNXEIsoBpAZpQ4to6yis1eoXXwEvARDgavXsLDe1PlH0Rb3yV5i1t1923oXMlrJAE81I_iaek"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/48KDk8lbuvE5qhW-iUoQD6r5uoWrPRJR7c8eNRSPG0mLKH-l2XtbSIdiY8sxFJ96Tkfb0lqBEbT5F9rQSI2lVC6m4HxMyRXzdrQ",
+    "view_skin": "https://lh3.googleusercontent.com/S4b1_u0506MdZ1E4aK-0nQlPSFW_8MwSgstq_3So9t7ozYmgnXK0L3yVxzeYoUZaC6WikosKnJXy5In-NwEpQLu3nzHzIynm294"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
